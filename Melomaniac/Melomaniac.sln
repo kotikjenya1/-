@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Melomaniac", "Melomaniac.csproj", "{443B741C-F85E-45E7-95A9-E6430187DEBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicAppWinForms", "..\MusicAppWinForms\MusicAppWinForms.csproj", "{7B588FBB-227E-4FDF-A21B-D2FD1744A56A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{443B741C-F85E-45E7-95A9-E6430187DEBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443B741C-F85E-45E7-95A9-E6430187DEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443B741C-F85E-45E7-95A9-E6430187DEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443B741C-F85E-45E7-95A9-E6430187DEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B588FBB-227E-4FDF-A21B-D2FD1744A56A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B588FBB-227E-4FDF-A21B-D2FD1744A56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B588FBB-227E-4FDF-A21B-D2FD1744A56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B588FBB-227E-4FDF-A21B-D2FD1744A56A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0713DCB-8773-4520-B5E0-B44E73CAF6FE}
+	EndGlobalSection
+EndGlobal

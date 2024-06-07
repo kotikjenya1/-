@@ -1,0 +1,9 @@
+C:\Users\Алёна\source\repos\Melomaniac\bin\Debug\Melomaniac.exe.config
+C:\Users\Алёна\source\repos\Melomaniac\bin\Debug\Melomaniac.exe
+C:\Users\Алёна\source\repos\Melomaniac\bin\Debug\Melomaniac.pdb
+C:\Users\Алёна\source\repos\Melomaniac\obj\Debug\Melomaniac.csproj.AssemblyReference.cache
+C:\Users\Алёна\source\repos\Melomaniac\obj\Debug\Melomaniac.csproj.SuggestedBindingRedirects.cache
+C:\Users\Алёна\source\repos\Melomaniac\obj\Debug\Melomaniac.csproj.CoreCompileInputs.cache
+C:\Users\Алёна\source\repos\Melomaniac\obj\Debug\Melomaniac.exe
+C:\Users\Алёна\source\repos\Melomaniac\obj\Debug\Melomaniac.pdb
+C:\Users\Алёна\source\repos\Melomaniac\obj\Debug\Melomaniac.csproj.CopyComplete
