@@ -17,7 +17,7 @@ namespace Melomaniac
 
             // Создание песен с использованием фабрики
             Song song1 = musicFactory.CreateSong("Song One", "Artist A", new TimeSpan(0, 3, 45), "Pop", "Some lyrics");
-            Song song2 = musicFactory.CreateSong("Song Two", "Artist B", new TimeSpan(0, 4, 10), "Rock", "Some more lyrics");
+            Song song2 = musicFactory.CreateSong("Song Two", "artist b", new TimeSpan(0, 4, 10), "Rock", "Some more lyrics");
 
             // Создание альбома с использованием фабрики
             Album album = musicFactory.CreateAlbum("Album One", "Artist A", new DateTime(2023, 5, 1));
