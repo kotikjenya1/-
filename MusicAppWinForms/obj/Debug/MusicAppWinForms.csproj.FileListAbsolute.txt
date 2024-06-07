@@ -1,0 +1,15 @@
+C:\Users\Алёна\source\repos\MusicAppWinForms\obj\Debug\MusicAppWinForms.csproj.AssemblyReference.cache
+C:\Users\Алёна\source\repos\MusicAppWinForms\obj\Debug\MusicAppWinForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Алёна\source\repos\MusicAppWinForms\obj\Debug\MusicAppWinForms.AddEditForm.resources
+C:\Users\Алёна\source\repos\MusicAppWinForms\obj\Debug\MusicAppWinForms.Form1.resources
+C:\Users\Алёна\source\repos\MusicAppWinForms\obj\Debug\MusicAppWinForms.Properties.Resources.resources
+C:\Users\Алёна\source\repos\MusicAppWinForms\obj\Debug\MusicAppWinForms.csproj.GenerateResource.cache
+C:\Users\Алёна\source\repos\MusicAppWinForms\obj\Debug\MusicAppWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Алёна\source\repos\MusicAppWinForms\bin\Debug\MusicAppWinForms.exe.config
+C:\Users\Алёна\source\repos\MusicAppWinForms\bin\Debug\MusicAppWinForms.exe
+C:\Users\Алёна\source\repos\MusicAppWinForms\bin\Debug\MusicAppWinForms.pdb
+C:\Users\Алёна\source\repos\MusicAppWinForms\bin\Debug\MusicLibrary.dll
+C:\Users\Алёна\source\repos\MusicAppWinForms\bin\Debug\MusicLibrary.Logic.dll
+C:\Users\Алёна\source\repos\MusicAppWinForms\obj\Debug\MusicAppWinForms.csproj.CopyComplete
+C:\Users\Алёна\source\repos\MusicAppWinForms\obj\Debug\MusicAppWinForms.exe
+C:\Users\Алёна\source\repos\MusicAppWinForms\obj\Debug\MusicAppWinForms.pdb
